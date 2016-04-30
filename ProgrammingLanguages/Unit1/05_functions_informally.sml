@@ -30,5 +30,5 @@ The use of * in type syntax is not multiplication
 Cannot refer to later function bindings
 - That's simply ML's rule
 - Helper functions must come before their uses
-- Need special construct for mutual recursion 
+- Need special construct for mutual recursion x
 *)
